@@ -1,5 +1,8 @@
 {
+	"name": "weather-outside",
+	"version": "0.1.0",
 	"private": true,
+	"license": "MIT",
 	"scripts": {
 		"start": "wmr",
 		"build": "wmr build --prerender",
